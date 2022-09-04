@@ -1,7 +1,7 @@
 ## Pre-Work
 
 ### App Description
-`TODO://` Add app description
+`TODO://`Basic app in Kotlin
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
